@@ -4,7 +4,8 @@ camera_matrix: !!opencv-matrix
    rows: 3
    cols: 3
    dt: d
-   data: [ 0., 0., 0., 0., 0., 0., 0., 0., 1. ]
+   data: [ 526.73516845703125, 0., 654.04144287109375, 0.,
+       526.73516845703125, 360.5040283203125, 0., 0., 1. ]
 dist_coeffs: !!opencv-matrix
    rows: 12
    cols: 1
